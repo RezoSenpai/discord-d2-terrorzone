@@ -8,7 +8,6 @@ import pytz
 
 
 API_URL = "https://d2runewizard.com/api/terror-zone"
-CACHE_TTL_MIN = 30
 params = {"token": tokenz}
 headers = {
     "D2R-Contact": header_email,
